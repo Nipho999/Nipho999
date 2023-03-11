@@ -1,0 +1,3 @@
+slowprint
+colorama
+requests
